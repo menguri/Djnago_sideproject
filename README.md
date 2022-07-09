@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```
 ┌───────────────────────────────────────────────┐
                                        _       
@@ -45,3 +46,7 @@ goormIDE is a powerful cloud IDE service to maximize productivity for developers
 
 Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
 To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
+=======
+# Djnago_sideproject
+장고로 Ant-indicator의 프로타입을 제작합니다.
+>>>>>>> c06dfb2373798b5d1b5fdb7faa40fdf6412eb207
