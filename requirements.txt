@@ -37,8 +37,6 @@ lazy-object-proxy==1.4.3
 llvmlite==0.34.0
 Markdown==3.3.3
 MarkupSafe==1.1.1
-matplotlib==3.3.2
-mccabe==0.6.1
 mpmath==1.1.0
 mxnet==1.7.0.post1
 nbclient==0.5.1
@@ -47,8 +45,6 @@ nbformat==5.0.8
 nest-asyncio==1.4.2
 networkx==2.5
 notebook==6.1.4
-numba==0.51.2
-numpy==1.19.4
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.4
@@ -68,12 +64,9 @@ py4j==0.10.9
 pycodestyle==2.6.0
 pycparser==2.20
 pyflakes==2.2.0
-pygame==2.0.0
-Pygments==2.7.2
 pylint==2.6.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
-pyspark==3.0.1
 python-dateutil==2.8.1
 pytz==2020.4
 PyWavelets==1.1.1
@@ -82,7 +75,6 @@ pyzmq==19.0.2
 requests==2.24.0
 requests-oauthlib==1.3.0
 scipy==1.5.3
-seaborn==0.11.0
 Send2Trash==1.5.0
 six==1.15.0
 sqlparse==0.4.1
