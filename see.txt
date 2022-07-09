@@ -1,3 +1,3 @@
 (1) goormide는 로컬에서 접속할 수 없다.
 (2) 0.0.0.0.8000으로 실행시킬 것.
-(3) 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
+(3) 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
