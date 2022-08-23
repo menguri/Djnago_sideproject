@@ -40,7 +40,7 @@ MarkupSafe==1.1.1
 mpmath==1.1.0
 mxnet==1.7.0.post1
 nbclient==0.5.1
-nbconvert==6.0.7
+nbconvert==6.5.1
 nbformat==5.0.8
 nest-asyncio==1.4.2
 networkx==2.5
