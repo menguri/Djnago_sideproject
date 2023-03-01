@@ -38,7 +38,7 @@ llvmlite==0.34.0
 Markdown==3.3.3
 MarkupSafe==1.1.1
 mpmath==1.1.0
-mxnet==1.7.0.post1
+mxnet==1.9.1
 nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
